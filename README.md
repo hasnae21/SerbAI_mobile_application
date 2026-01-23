@@ -6,8 +6,10 @@ SerbAI is the Android-based command and supervision interface for an autonomous 
 ## 📋 Contexte du Projet
 
 Le projet s'inscrit dans le domaine de la **robotique de service**, où des robots autonomes sont utilisés pour assister ou remplacer des tâches humaines. Le pilotage et la supervision de ces robots nécessitent une **interface homme-machine (IHM)** fiable, complète et facile d'utilisation.
+
 ![20260122_230020_mfnr](https://github.com/user-attachments/assets/69661ba9-7966-4fa2-aa99-9f1f60ea6885)
 ![20260122_230121_mfnr](https://github.com/user-attachments/assets/fcb2881f-3061-41d2-be20-7d465f10e6e4)
+
 
 ## 🎯 Besoin Identifié
 
@@ -164,7 +166,7 @@ Format Réponse : [CATEGORIE]:[VALEUR] (ex: TEST:OK, MODE:AUTO)
 # Plan de Test Fonctionnel 
 
 ## Vue d'ensemble
-Ce document décrit le plan de test complet pour l'application SerbAI-Control, une application mobile permettant de contrôler un robot via Bluetooth. Le plan est divisé en 5 phases de test successives.
+Cette partie décrit le plan de test complet pour l'application SerbAI-Control, une application mobile permettant de contrôler un robot via Bluetooth. Le plan est divisé en 5 phases de test successives.
 
 ---
 
@@ -376,7 +378,7 @@ Ce document décrit le plan de test complet pour l'application SerbAI-Control, u
 Date du test : 15/12/2026
 Testeur : AHOUZI Hasnae
 Version de l'application : V0.4
-Résultat global : □ Réussi □ Partiellement réussi □ Échoué
+Résultat global :  Réussi
 
 | Phase | Test | Résultat | Observations |
 |-------|------|----------|--------------|
@@ -391,7 +393,7 @@ Résultat global : □ Réussi □ Partiellement réussi □ Échoué
 | 4 | Directions | done | |
 | 4 | Pivots | done | |
 | 4 | Stop moteur | done | imidiat |
-| 5 | Vitesses | done | moyeene est la plus stable|
+| 5 | Vitesses | done | moyenne est la plus stable|
 
 ---
 
